@@ -8,7 +8,7 @@
     "hbs": "^4.2.0",
     "prisma": "^4.12.0"
   },
-  "script": {
+  "scripts": {
     "start" : "node server.js"
   }
 }
